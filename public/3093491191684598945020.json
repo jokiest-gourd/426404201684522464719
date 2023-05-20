@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "10320674105",
+    "project_id": "fintech-money",
+    "storage_bucket": "fintech-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10320674105:android:53941597a4d1031fa23ce8",
+        "android_client_info": {
+          "package_name": "com.pesada.danapintar.pinjaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBXR0PQLn-jKAkgJaPw707iFSQPMzu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10320674105:android:fad5b3d78194c6e7a23ce8",
+        "android_client_info": {
+          "package_name": "com.pesada.kredithint.cepatcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBXR0PQLn-jKAkgJaPw707iFSQPMzu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10320674105:android:357233da4705cefea23ce8",
+        "android_client_info": {
+          "package_name": "com.pesada.usap.pinjaman.fintek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBXR0PQLn-jKAkgJaPw707iFSQPMzu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10320674105:android:d99db358ec7c922aa23ce8",
+        "android_client_info": {
+          "package_name": "com.pinjaman.caircepat.advice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBXR0PQLn-jKAkgJaPw707iFSQPMzu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10320674105-af6ahsdl2ct4s3n3l1dgd9muroder382.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
